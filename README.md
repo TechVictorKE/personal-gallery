@@ -20,7 +20,7 @@ A personal gallery application where one can display their photos for others to 
 | Behaviour | Input | Output |
 | :---------------- | :---------------: | ------------------: |
 | Load the page | **On page load** | Get all pictures|
-| Select a picture | ** Click on 'copy download link'** | Download image|
+| Select a picture | ** Click on 'copy download link' ** | Download image|
 
 
 
