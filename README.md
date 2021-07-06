@@ -6,7 +6,14 @@ A personal gallery application where one can display their photos for others to 
 
 ## Screenshot
 
-<img src="">
+Home:
+<img src="https://github.com/TechVictorKE/personal-gallery/blob/master/static/img/Home.png">
+
+Sample picture:
+<img src="https://github.com/TechVictorKE/personal-gallery/blob/master/static/img/Sample-pic.png">
+
+Slideshow sample:
+<img src="https://github.com/TechVictorKE/personal-gallery/blob/master/static/img/slideshow-sample.png">
 
 ## User Stories
 
