@@ -2,7 +2,7 @@
 A personal gallery application where one can display their photos for others to see.
 
 ## Live Link
-[View Site]()
+[View Site](https://gallery-personal.herokuapp.com/)
 
 ## Screenshot
 
