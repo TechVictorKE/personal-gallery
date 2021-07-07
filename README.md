@@ -12,7 +12,7 @@ Home:
 Sample picture:
 <img src="https://github.com/TechVictorKE/personal-gallery/blob/master/static/img/Sample-pic.png">
 
-Slideshow sample:
+Slider sample:
 <img src="https://github.com/TechVictorKE/personal-gallery/blob/master/static/img/slideshow-sample.png">
 
 ## User Stories
